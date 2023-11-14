@@ -1,2 +1,1 @@
-</h1>0x14. JavaScript - Web scraping</h1>
-# 0x14. JavaScript - Web scraping>
+<h1>0x13. JavaScript - Objects, Scopes and Closures</h1>
